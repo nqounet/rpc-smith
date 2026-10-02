@@ -1,0 +1,5 @@
+version: v1
+author: auto-generated
+purpose: Go minimal JSON-RPC 2.0 hello example
+run_cmd: go run src/main.go
+test_cmd: bash tests/run.sh

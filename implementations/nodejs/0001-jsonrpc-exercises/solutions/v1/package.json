@@ -1,0 +1,13 @@
+{
+  "name": "rpc-smith-jsonrpc-exercises",
+  "version": "1.0.0",
+  "description": "JSON-RPC 2.0 beginner exercises (server + tests)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "bash tests/run.sh"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

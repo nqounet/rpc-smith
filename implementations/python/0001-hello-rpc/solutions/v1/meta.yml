@@ -1,0 +1,5 @@
+version: v1
+author: auto-generated
+purpose: Python minimal JSON-RPC 2.0 hello example
+run_cmd: python3 src/server.py
+test_cmd: bash tests/run.sh

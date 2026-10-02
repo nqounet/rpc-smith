@@ -1,0 +1,5 @@
+version: v1
+author: auto-generated
+purpose: Beginner JSON-RPC 2.0 exercises (server + client + tests)
+run_cmd: npm start
+test_cmd: bash tests/run.sh
